@@ -1,0 +1,11 @@
+{
+  "name": "e2ee-demo",
+  "version": "1.0.0",
+  "description": "A demo code on how to encrypt credit cards using PaymentsOS E2EE Feature using jose package",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jose": "^1.27.2"
+  }
+}
